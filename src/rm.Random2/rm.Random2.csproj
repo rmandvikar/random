@@ -8,6 +8,7 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>1591;NU1507</NoWarn>
     <LangVersion>latest</LangVersion>
+    <PackageId>rmandvikar.Random2.csproj</PackageId>
     <Nullable>enable</Nullable>
     <Description>Thread-safe Random implementations.</Description>
     <PackageTags>random thread-safe</PackageTags>
